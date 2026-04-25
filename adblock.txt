@@ -5,3 +5,4 @@ imageproxy.as.criteo.net
 admicro.vn
 adx.admicro.vn
 lg1.logging.admicro.vn
+cdn.flashtalking.com
