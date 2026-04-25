@@ -1,0 +1,6 @@
+googlesyndication.com
+static.criteo.net
+cat.sg1.as.criteo.com
+imageproxy.as.criteo.net
+admicro.vn
+adx.admicro.vn
